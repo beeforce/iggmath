@@ -2,6 +2,6 @@ package iggmath
 
 import "fmt"
 
-func Add(int a, b) int {
+func Add(a, b int) int {
 	return a + b
 }
